@@ -1,0 +1,19 @@
+1. Reverse a string 
+2. Check for palindrome 
+3. Fibonacci series 
+4. Factorial of a number 
+5. Prime number check 
+6. Count vowels and consonants
+7. Find the largest element in array 
+8. Remove duplicate from an array 
+9. Check if a number is Armstrong 
+10. Reverse a number 
+11. Calculate gcd of two number 
+12. Check for anagram 
+13. Count the number of digits in a number 
+14. Find the second largest element in array 
+15. Swap of two numbers 
+16. Premdeep pascals triangle
+17. Find the missing number in array
+18. Convert decimal to binary 
+19. Check for the perfect number
